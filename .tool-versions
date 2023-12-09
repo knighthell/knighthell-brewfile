@@ -1,0 +1,5 @@
+# This file for asdf plugins
+
+python 3.9.6
+ruby 3.2.2
+node 18.17.0
