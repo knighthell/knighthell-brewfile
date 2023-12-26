@@ -18,6 +18,8 @@ brew 'jsoncpp'
 brew 'cocoapods'
 brew 'edgedb/tap/edgedb-cli'
 brew 'font-d2coding'
+brew 'jq'
+brew 'jaq' # jq보다 빠름
 
 cask 'google-chrome'
 cask 'chrome-remote-desktop-host'
