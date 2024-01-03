@@ -7,7 +7,7 @@ tap 'edgedb/tap'
 
 brew 'mas'
 brew 'go'
-# brew 'asdf' # Multiple Runtime Version Manager
+# brew 'asdf' # Multiple Runtime Version Manager, Researching...
 brew 'nvm' # Node Version Manager
 brew 'pyenv' # Python Version Manager
 brew 'rbenv' # Ruby Version Manager
@@ -20,6 +20,7 @@ brew 'edgedb/tap/edgedb-cli'
 brew 'font-d2coding'
 brew 'jq'
 brew 'jaq' # jq보다 빠름
+brew 'lazydocker'
 
 cask 'google-chrome'
 cask 'chrome-remote-desktop-host'
